@@ -1855,3 +1855,58 @@ Unable to read VR Path Registry from C:\Users\Mateus\AppData\Local\openvr\openvr
 [GPU
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1532757235287	geckodriver	INFO	geckodriver 0.21.0
+1532757235295	geckodriver	INFO	Listening on 127.0.0.1:57415
+1532757238243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mateus\\AppData\\Local\\Temp\\rust_mozprofile.wF4MjZ7xLlkU"
+Unable to read VR Path Registry from C:\Users\Mateus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mateus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mateus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mateus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mateus\AppData\Local\openvr\openvrpaths.vrpath
+1532757240457	Marionette	INFO	Listening on port 57425
+1532757240950	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12636, Chrome_ChildT*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 12564, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1532759622474	geckodriver	INFO	geckodriver 0.21.0
+1532759622491	geckodriver	INFO	Listening on 127.0.0.1:59563
+1532759625502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mateus\\AppData\\Local\\Temp\\rust_mozprofile.AAUfUa2XVZaU"
+Unable to read VR Path Registry from C:\Users\Mateus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mateus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mateus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mateus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mateus\AppData\Local\openvr\openvrpaths.vrpath
+1532759627256	Marionette	INFO	Listening on port 59572
+1532759627615	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc[Chi_channel_win.cld 1c, lin7372, Chroeme_ 346
+ChildThrea[Childd] WARN ING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17372, Chrome_ChildThread][Parent 10836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 7304, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1532759659068	geckodriver	INFO	geckodriver 0.21.0
+1532759659080	geckodriver	INFO	Listening on 127.0.0.1:59630
+1532759662080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mateus\\AppData\\Local\\Temp\\rust_mozprofile.ESaELsvaXJcH"
+Unable to read VR Path Registry from C:\Users\Mateus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mateus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mateus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mateus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mateus\AppData\Local\openvr\openvrpaths.vrpath
+1532759663714	Marionette	INFO	Listening on port 59639
+1532759664189	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7044, Chrome_Chi1532759683861	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Child 988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 988, Chrome_ChildThread] WARNING: 1532759683871	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1532759683873	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 6504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9212,*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 13
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
