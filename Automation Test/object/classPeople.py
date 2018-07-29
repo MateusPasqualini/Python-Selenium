@@ -4,6 +4,7 @@ import string
 
 class Person:
 
+    # Construtora da classe Person
     def __init__(self):
         self.nome = "Mad"
         self.last = "Max"

@@ -16,7 +16,7 @@ class Auto:
     def add_to_cart(self):
         self.elements.get_image_element().click()
         self.elements.get_add_cart_button().click()
-        self.validacao.validate_product()   # método da classe Validation para validar se o produto foi inserido no carrinho
+        self.validacao.test_validate_all("Product successfully added to your shopping cart", self.elements.added_in_cart())   # método da classe Validation para validar se o produto foi inserido no carrinho
         self.elements.get_proceder_button().click()
         self.elements.get_checkout_button().click()
 
@@ -43,7 +43,7 @@ class Auto:
 
     # Método para validar o endereço e prosseguir
     def address_proceed(self):
-        self.validacao.validate_address()  # método da classe validation para validar se o endereço está correto
+        self.validacao.test_validate_all(self.pessoa.endereco, self.elements.validate_address())  # método da classe validation para validar se o endereço está correto
         self.elements.get_send_button().click()
 
     # Método para aceitar os termos
@@ -52,6 +52,7 @@ class Auto:
         self.elements.get_proceder2_button().click()
 
     def finish_buying(self):
-        self.validacao.validate_price()
+        self.validacao.test_validate_all("$18.51", self.elements.validate_price())
         self.elements.get_payment_button().click()
         self.elements.get_buy_button().click()
+        self.validacao.test_validate_all("Your order on My Store is complete.", self.elements.validate_purchase())
