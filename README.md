@@ -1,7 +1,8 @@
 # Python-Selenium
 Programa de automação de testes em Python com Framework Selenium
 
-
+Para rodar o script é necessário que estejam instalados Python 3.7, pip 18.0 e o framework Selenium. Com estes requisitos cumpridos
+basta executar o arquivo AutomationPractice.py.
 
 
 Ferramentas utilizadas
