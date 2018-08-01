@@ -3,6 +3,7 @@ Programa de automação de testes em Python com Framework Selenium
 
 
 
+
 Ferramentas utilizadas
 
     Python 3.7 - https://www.python.org/
@@ -11,7 +12,7 @@ Ferramentas utilizadas
     
     pip 18.0 - https://pypi.org/project/pip/ - ferramenta para instalar pacotes externos.
     
-    geckodriver - programa necessário para o WebDriver se comunicar com Gecko Browsers, nesse caso firefox.
+    geckodriver - https://github.com/mozilla/geckodriver/releases - programa necessário para o WebDriver se comunicar com Gecko Browsers, nesse caso firefox.
     
 Biblioteca externa
 
