@@ -117,6 +117,7 @@ class FindElements:
     # Método que retorna o elemento para o botão de compra
     def get_buy_button(self):
         return self.driver.find_element(By.XPATH, "/html/body/div/div[2]/div/div[3]/div/form/p/button")
+    
     # Método que retorna uma string de um elemento
     def validate_purchase(self):
         return self.driver.find_element(By.CSS_SELECTOR, ".cheque-indent > strong:nth-child(1)").text
