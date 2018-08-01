@@ -29,7 +29,7 @@ class Person:
     def getendereco(self):
         return self.endereco
 
-#if para testes apensa no escopo deste programa
+#if para testes apenas no escopo deste programa
 if __name__ == '__main__':
     P1 = Person()
     print(P1.nome)
